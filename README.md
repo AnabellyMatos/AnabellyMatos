@@ -1,6 +1,6 @@
 ### Olá, sou Anabelly Matos
  - 👀  Trabalho com Front end
- - 💞️ Estudo Java
+ - 💞️ Estudo Ciência da Computação
  - 🌱Pronouns: ela/dela
  - 📫 contate-me no e-mail: anabellymatos@gmail.com
 <!--
